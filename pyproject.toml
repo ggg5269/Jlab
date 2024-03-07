@@ -11,6 +11,7 @@ jupyterlab = "^4.1.3"
 finviz-platform = {git = "https://github.com/mariostoev/finviz"}
 finvizfinance = "^0.14.7"
 pymongo = "^4.6.2"
+fdc = {git = "https://github.com/ggg5269/FDC"}
 
 
 [build-system]
